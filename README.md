@@ -1,6 +1,6 @@
 # 🚀 EzzyTracker
 
-A beautiful and powerful task management application built with React, TypeScript, and Tailwind CSS. Features a stunning dark mode galaxy theme and seamless integration with the EzzyFit ecosystem.
+A  task management application built with React, TypeScript, and Tailwind CSS. 
 
 ![EzzyTracker Preview](https://images.unsplash.com/photo-1539721972319-f0e80a00d424?auto=format&fit=crop&w=2000&q=80)
 
