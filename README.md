@@ -15,7 +15,7 @@ A  task management application built with React, TypeScript, and Tailwind CSS.
 - **💾 Persistent Storage**: Local storage saves your tasks automatically
 - **🔔 Desktop Notifications**: Get notified when Pomodoro cycles complete
 - **🎨 Responsive Design**: Works beautifully on all devices
-- **🔗 EzzyFit Integration**: Direct link to the EzzyFit fitness platform
+- **🔗 EzzyFit Integration**: Direct link to the EzzyFit 
 
 ## 🚀 Getting Started
 
