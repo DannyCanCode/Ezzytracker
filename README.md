@@ -46,7 +46,7 @@ A  task management application built with React, TypeScript, and Tailwind CSS.
 ## 🔗 Links
 
 - [EzzyFit App](https://www.ezzyfit.app/)
-- [EzzyTracker](ezzytracker.netlify.app)
+- [EzzyTracker](https://ezzytracker.netlify.app/)
 
 
 ## 📝 License
